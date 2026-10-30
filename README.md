@@ -43,6 +43,12 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 | *Healthcare data project #2* (coming soon) | | |
 | *Healthcare data project #3* (coming soon) | | |
 
+## Bootcamp project
+
+| Project | Stack | What it does |
+|---|---|---|
+| 🛒 [YAKOI: product recalls in Europe and France](https://github.com/alexandradelverdier-cmd/yakoi-product-recalls) | BigQuery, SQL, Looker Studio | Le Wagon team project: analysis of EU and French recalls (2021-2025) and a brand reliability score based on severity, frequency and processing level |
+
 ## Languages
 
 French (native) · English (professional) · Spanish (intermediate) · Moroccan Arabic, Darija (basic)
