@@ -14,7 +14,7 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 - **Medtech**: first employee and Medical Ops at DermaScan, a skin cancer screening startup. I supported field deployment of medical devices and an AI companion for clinicians, and turned user feedback into product input for the tech team
 - **Data**: Le Wagon Data Analytics bootcamp, certified *Concepteur développeur en intelligence artificielle et analyse big data* (RNCP level 6)
 - **Teaching**: Teaching Assistant at Le Wagon Paris, supporting students on dbt, Python, automation and data modelling
-- **Currently exploring**: machine learning applied to healthcare data
+- **Currently exploring**: machine learning and AI agents applied to healthcare data
 
 ## Tech stack
 
