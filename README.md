@@ -24,6 +24,7 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Athena-232F3E)
 
 #### Python, machine learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,14 +42,14 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 #### Currently learning
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Data%20Engineer%20certification-232F3E)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white)
 
 ## Featured projects
 
 | Project | Stack | What it does |
 |---|---|---|
-| 💊 [FAERS pharmacovigilance agent](https://github.com/alexandradelverdier-cmd/faers-agent) · [live demo](https://faers-agent.streamlit.app) | BigQuery, dbt, Claude API, Streamlit | AI agent that answers questions on 6.4M FDA adverse event reports, with pharmacovigilance rules built in and every SQL query shown |
+| 🧠 [Mental health care in France](https://github.com/alexandradelverdier-cmd/sante-mentale-aws) | AWS (S3, Athena), dbt, Python | Maps psychiatric care deserts across French départements and tests whether a lack of psychiatrists drives psychotropic drug use, using 5 public data sources |
 | *Healthcare data project #2* (coming soon) | | |
 | *Healthcare data project #3* (coming soon) | | |
 
