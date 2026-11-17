@@ -63,4 +63,4 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 
 ## Languages
 
-French (native) · English (professional) · Spanish (intermediate) · Moroccan Arabic, Darija (basic)
+French (native) · English (professional) · Spanish (intermediate) 
