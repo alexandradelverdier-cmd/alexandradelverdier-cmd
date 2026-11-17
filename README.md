@@ -30,6 +30,7 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![AI agents](https://img.shields.io/badge/AI_agents-6E40C9?style=flat-square&logo=probot&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -50,8 +51,9 @@ I spent eight years as a nurse, in neurology and psychiatry wards and then in my
 | Project | Stack | What it does |
 |---|---|---|
 | 🧠 [Mental health care in France](https://github.com/alexandradelverdier-cmd/sante-mentale-aws) | AWS (S3, Athena), dbt, Python | Maps psychiatric care deserts across French départements and tests whether a lack of psychiatrists drives psychotropic drug use, using 5 public data sources |
-| *Healthcare data project #2* (coming soon) | | |
-| *Healthcare data project #3* (coming soon) | | |
+| 🏠 [Psychiatry outside hospital walls](https://github.com/alexandradelverdier-cmd/sante-mentale-cmp) | BigQuery, dbt, Python | Community mental health centres and home follow-up across French départements, and whether they relieve psychiatric bed pressure (DREES data, 2023-2025) |
+| 💊 [GLP-1: pen vs pill](https://github.com/alexandradelverdier-cmd/glp1) | BigQuery, dbt, BigQuery ML | FDA adverse event reports on GLP-1 drugs: disproportionality signals, injectable vs oral forms, and an anomaly detector validated on real safety alerts |
+| 🤖 [FAERS pharmacovigilance agent](https://github.com/alexandradelverdier-cmd/faers-agent) | Claude API, BigQuery, dbt, Streamlit | AI agent that answers pharmacovigilance questions in plain language: writes the SQL, runs it on 6.4M cleaned FDA cases and explains the result. [Live demo](https://faers-agent.streamlit.app) |
 
 ## Bootcamp project
 
